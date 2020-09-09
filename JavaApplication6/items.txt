@@ -1,0 +1,12 @@
+PRO1,headphones,kingston,1 yr,588,8 GB MicroSDHC
+PRO2,laptops,remax,3 yrs,4000,wired stereo
+PRO3,headphones,rapoo,3 yrs,1273,P00520HB wireless
+PRO4,routers and networking,tenda,no,1125,150Mbps Nano
+PRO5,graphic cards,asus geforce,5 yrs,8125,GT 710
+PRO6,headphones,asus,1 yr,13125,LCD Monitor
+PRO7,routers and networking,dell latitude,5 yrs,44500,i5 4GB
+PRO8,Graphic Cards,ADD TEST,1 yr,500,jst a test
+PRO8,mouses,iMice,1 yr,1500,gaming
+PRO10,Graphic Cards,test,no,500,test
+PRO11,laptops,HP,3 yr,70000,i5 AMD
+PRO12,storage devices,yasuda,no,450,16 GB

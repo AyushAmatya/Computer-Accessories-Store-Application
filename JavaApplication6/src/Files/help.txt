@@ -1,0 +1,58 @@
+a) Menu Bar: 
+	There is a menu bar consisting of File menu and Help menu.
+
+	1. File Menu: File menu has New file, Open file and Exit file.
+
+		i. New file: When we click on File menu and click on New file or press Ctrl + N directly, new file will be generated with empty data inside JTable.
+
+		ii. Open file: When we click on File menu and click on Open file or press Ctrl + O directly, a dialogue box appears with a message open file name and 
+		a textfield. Then if we type a name of a previously recorded and saved file, data comes to Jtable and we can have details of them.
+
+		ii. Exit file: When we click on Exit menu and click on Exit, window of a "Computer Accessories Store" terminates.
+
+	2. Help Menu: Help Menu has General Help file and Read Report file.
+
+		i. General Help file: When we click on Help Menu and click on General Help file or directly press Ctrl + H, user manual for client who needs 
+		information regarding this "Computer Accessories Store" application appears inside notepad file.
+
+		ii. Read Report file: When we click on Help Menu and click on General Help file, report of whole assignment will appear.
+
+
+b) Computer Accessories Details JPanel: 
+	There are 6 columns with name Product_id, Category, Company, Warranty, Price, Description inside the JTable of Computer Accessories Details JPanel.
+
+	1. Product_id: Product_id column consists of unique combination of characters and numbers to identify the product which are in the store.
+	2. Category: Category column consists of type in which products falls in such as Graphics Cards, headphones etc.
+	3. Company: Company column consists of name of company which manufatures the product.
+	4. Warranty: Warranty column consists of time upto which the product can be replaced and repaired by the store according to the condition occured by situations.
+	5. Price: Price column consists of price of product.
+	6. Description: Description column consists of details of product.
+
+
+c) Sort by Price button: 
+	When data needs to be arranged in ascending order according to the price, this button will help the user.
+
+d) Sort by Product ID button: 
+	When data needs to be arranged in ascending order according to the product ID, this button will help the user.
+
+e) Save button: 
+	This button will save the data inside the existing file.
+
+f) Save As button: 
+	This button will save the data inside the new file.
+
+g) ADD Product to Store JPanel: 
+	This panel consists of Jlabels, Textfields, combo box, check box and buttons to insert value regarding the product such as product_id, name, price and 
+	description, to choose warranty time from checkbox, to choose category from combo box, to add these data inside the table and to clear inserted data. And 
+	if Add Product button is pressed without inserting values inside Textfield,message box will appear with alert message.
+
+h) Search Products JPanel: 
+	This panel consists of TextField and JButtons to insert product by price and to search the product by price. To recognise what need to be inserted inside 
+	the TextField, Jlabel is also included. And TextField can also accept integer value. Otherwise, message box will appear with alert message.
+
+i) Query Available Products JPanel: 
+	This panel consists of combo box and JButton to know the queries of product by category of product by selecting category name from combo box and by pressing 
+	Accessories Available button.
+
+
+
